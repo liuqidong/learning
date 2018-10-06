@@ -43,6 +43,7 @@ https://github.com/prakhar1989/awesome-courses
 https://github.com/josephmisiti/awesome-machine-learning
 
 java相关
+
 https://github.com/akullpp/awesome-java
 java核心知识库
 https://github.com/crossoverJie/JCSprout
@@ -50,6 +51,11 @@ https://github.com/crossoverJie/JCSprout
 https://github.com/Viscent/javamtia
 《Java多线程编程实战指南（设计模式篇）》源码
 https://github.com/Viscent/javamtp
+深入理解java虚拟机第二版源码
+https://github.com/zlserver/jvm_code.git
+
+
+
 设计模式
 https://github.com/iluwatar/java-design-patterns
 https://github.com/quanke/design-pattern-java-source-code
